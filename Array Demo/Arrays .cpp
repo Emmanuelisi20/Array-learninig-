@@ -25,7 +25,7 @@ int main()
 
 	// show thr cout numbers 
 
-	cout << " THis are the display values" << endl;
+	cout << " This are the display values" << endl;
 	cout << " " << num[0];
 	cout << " " << num[1];
 	cout << " " << num[2];
